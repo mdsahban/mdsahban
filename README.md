@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">My name is ~Md sahban<br>Currently I'm a student of The Guru Tegh Bahadur Institute of technology, where I'm learning how to create beautiful and functional websites using HTML, CSS, JavaScript.<br>I'm a web frontend developer who loves to create beautiful and functional websites for people who want to make a difference in the world.</p>
+<p align="center">My name is ~Md sahban<br>Currently I'm a student of The Guru Tegh Bahadur Institute of technology, where I'm pursuing my diploma in computer Engineering<br>I'm a frontend web developer who loves to create beautiful and functional websites for people who want to make a difference in the world.</p>
 
 ###
 
