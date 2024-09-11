@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning web development.<br>🎯 Goals: MERN stack<br>🎲 Fun fact: I loves to create beautiful and functional websites.</p>
+<p align="left">📚 I'm currently learning web development.<br>🎯 Goals: Software Engineering<br>🎲 Fun fact: I loves to create beautiful and functional websites.</p>
 
 ###
 
