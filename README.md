@@ -2,9 +2,7 @@
 
 ###
 
-<p align="center">My name is Md Sahban, and I am currently pursuing a Bachelor of Engineering (BE) from Sathyabama Institute of Science and Technology. I recently completed a Diploma in Computer Science Engineering from Guru Tegh Bahadur Institute of Technology.
-
-I am a frontend web developer passionate about crafting beautiful and functional websites for individuals and organizations aiming to make a positive impact. My focus is on delivering creative and user-friendly digital experiences while continuously learning and adapting to new technologies in the ever-evolving tech landscape.</p>
+<p align="center">My name is Md Sahban, and I am currently pursuing a Bachelor of Engineering (BE) from Sathyabama Institute of Science and Technology. I recently completed a Diploma in Computer Science Engineering from Guru Tegh Bahadur Institute of Technology.</p>
 
 ###
 
