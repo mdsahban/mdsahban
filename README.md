@@ -2,10 +2,6 @@
 
 ###
 
-<p align="center">My name is Md Sahban, and I am currently pursuing a Bachelor of Engineering (BE) from Sathyabama Institute of Science and Technology. I recently completed a Diploma in Computer Science Engineering from Guru Tegh Bahadur Institute of Technology.</p>
-
-
-
 <h2 align="center">I code with</h2>
 
 ###
