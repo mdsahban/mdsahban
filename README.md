@@ -1,34 +1,49 @@
-<h1 align="center">Hey 👋 What's up?</h1>
-
-###
-
-<h2 align="center">I code with</h2>
-
-###
+## Profile snapshot
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/hero?username=mdsahban&theme=satan&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F160404364%3Fu%3D9e4002c79cee9cd5b3da375a9d3814a5e669d338%26v%3D4" alt="mdsahban hero visual" />
+</p>
+
+<p><b>full-stack engineer</b></p>
+
 </div>
 
-###
+## About
 
-<div align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mdsahban&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+> 
+ 
 
-###
+- 📍 Based in **Chennai, Tamil Nadu**
+
+
+*Small, useful work over vague claims.*
+
+## Core toolkit
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/stack?username=mdsahban&theme=satan&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F160404364%3Fu%3D9e4002c79cee9cd5b3da375a9d3814a5e669d338%26v%3D4" alt="mdsahban stack visual" />
+</p>
+
+## Selected work
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/projects?username=mdsahban&theme=satan&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F160404364%3Fu%3D9e4002c79cee9cd5b3da375a9d3814a5e669d338%26v%3D4" alt="mdsahban projects visual" />
+</p>
+
+## Let’s connect
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/social?username=mdsahban&theme=satan&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F160404364%3Fu%3D9e4002c79cee9cd5b3da375a9d3814a5e669d338%26v%3D4" alt="mdsahban social visual" />
+</p>
+
+<a href="https://github.com/mdsahban">GitHub</a>
+
+## Activity
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/heatmap?username=mdsahban&theme=satan" alt="mdsahban contribution activity" />
+</p>
+
+<p align="center"><sub>Md Sahban · <a href="https://www.gitskins.com/readme-generator?template=community-recruiter-ready-danv">Recruiter-ready</a> template by <a href="https://www.gitskins.com/creators/itzz-shantanu">@itzz-shantanu</a>, a remix of <a href="https://www.gitskins.com/readme-generator?template=recruiter">Recruiter-ready</a> by GitSkins · generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
